@@ -17,9 +17,9 @@ This program is using Python as its main language.
 Installation:
 Provided step-by-step instructions on how to install and set up the project locally. Include any dependencies that need to be installed and configuration steps.
 
-###bash
 
-# Example installation steps
+###bash
+# Example installation steps:
 1. git clone https://github.com/kartikeysingh93/Prodigy_Infotech_03.git
 2. cd PRODIGY_Infotech_03
 3. python task3.py
