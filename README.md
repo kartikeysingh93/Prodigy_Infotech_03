@@ -1,20 +1,20 @@
-Project Title: 
+#Project Title: 
 Password Strength Checker
 
 
-Project Overview:
+#Project Overview:
 Under the Internship program with Prodigy this project is being Completed
 
 
-Task Description:
+#Task Description:
 A python program that can check the strength of user's password. Allowing user to input a password and and check the strength according to different standard's.
 
 
-Technologies Used:
+#Technologies Used:
 This program is using Python as its main language.
 
 
-Installation:
+#Installation:
 Provided step-by-step instructions on how to install and set up the project locally. Include any dependencies that need to be installed and configuration steps.
 
 
@@ -24,7 +24,7 @@ Provided step-by-step instructions on how to install and set up the project loca
 2. cd PRODIGY_Infotech_03
 3. python task3.py
 
-Usage
+#Usage
 This project can be used to check the strength of your password and also Encrypt and Decrypt your passwords.
 
 Results
