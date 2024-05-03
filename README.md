@@ -14,7 +14,7 @@ Technologies Used:
 This program is using Python as its main language.
 
 
-Installation
+Installation:
 Provided step-by-step instructions on how to install and set up the project locally. Include any dependencies that need to be installed and configuration steps.
 
 ###bash
