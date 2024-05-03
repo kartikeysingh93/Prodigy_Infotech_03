@@ -16,9 +16,9 @@ Provide step-by-step instructions on how to install and set up the project local
 ###bash
 
 # Example installation steps
-git clone https://github.com/KartikeyanTomar/PRODIGY_CS_03.git
-cd PRODIGY_CS_03
-python Password_Strength_Checker.py
+git clone https://github.com/kartikeysingh93/Prodigy_Infotech_03.git
+cd PRODIGY_Infotech_03
+python task3.py
 
 Usage
 This project can be used to check the strength of your password and also Encrypt and Decrypt your passwords.
