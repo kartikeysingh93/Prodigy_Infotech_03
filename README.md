@@ -20,7 +20,7 @@ Provide step-by-step instructions on how to install and set up the project local
 ```
 # Example installation steps
 git clone https://github.com/kartikeysingh93/Prodigy_Infotech_03.git
-cd PRODIGY_Infotech_03
+cd Prodigy_Infotech_03
 python task3.py
 ```
 # Usage
