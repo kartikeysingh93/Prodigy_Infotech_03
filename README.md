@@ -1,5 +1,4 @@
 # Project Title
-Implement Ceaser Cipher
 Password_Strength_checker
 
 # Project Overview
